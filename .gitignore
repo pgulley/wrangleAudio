@@ -1,0 +1,10 @@
+#These files are proprietary and large, and so don't go in git
+Loops/**
+LoopsAndTags/**
+
+#don't need compiled files
+*.pyc
+
+#or the products of scripts being run
+*.txt
+
